@@ -1,4 +1,4 @@
-# AprendizajeAutomaticoPr
+# Practicas de Aprendizaje Automatico
 Practicas Aprendizaje Automático en Python utilizando las librerias Tensorflow, Keras y sklearn
 
 Actividad 1: Problema de clasificación y regresión para el valor de viviendas con Decision Tree y Random Forest.
