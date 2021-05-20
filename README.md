@@ -1,4 +1,4 @@
-# Practicas de Aprendizaje Automatico
+# Practicas de Aprendizaje Automático
 Practicas Aprendizaje Automático en Python utilizando las librerias Tensorflow, Keras y Scikit-learn
 
 ![Captura](https://user-images.githubusercontent.com/9929241/118838976-69067b80-b8c6-11eb-9bd6-ae05232f64ff.PNG)
