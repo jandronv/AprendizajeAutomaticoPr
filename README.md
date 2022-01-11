@@ -10,7 +10,13 @@ Practicas Aprendizaje Automático en Python utilizando las librerias Tensorflow,
 *  Actividad 2: Problema de clasificación de precios de dispositivos móviles con SVM y Redes neuronales.
 
 
-*  Activadad 3: 
+*  Activadad 3: Detección de Anomalias
+
+* Actividad 1, Sistemas Cognitivos Artificiales: Conceptos de Redes Neuronales
+
+* Actividad 2, Sistemas Cognitivos Artificiales: CNNs
+
+* Actividad 3, Sistemas Cognitivos Artificiales: RNNs
 
 *  Regresión con Redes neueronales: Problema de regresión para calcular la eficicia de los coches en galones por milla con redes neuronales.
 
