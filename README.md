@@ -1,14 +1,12 @@
-# Practicas y ejemplos
-Practicas Aprendizaje Automático, Sistemas Cognitivos y Python Data Science Handbook. Utilizando las librerías Tensorflow, Keras y Scikit-learn
+# Prácticas y ejemplos
+Prácticas de Aprendizaje Automático, Sistemas Cognitivos y Python Data Science Handbook. Utilizando las librerías Tensorflow, Keras y Scikit-learn
 
 ![Captura](https://user-images.githubusercontent.com/9929241/118838976-69067b80-b8c6-11eb-9bd6-ae05232f64ff.PNG)
 
 
 *  Actividad 1: Problema de clasificación y regresión para el valor de viviendas con Decision Tree y Random Forest.
 
-
 *  Actividad 2: Problema de clasificación de precios de dispositivos móviles con SVM y Redes neuronales.
-
 
 *  Actividad 3: Detección de Anomalías
 
