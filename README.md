@@ -1,5 +1,5 @@
 # Practicas de Aprendizaje Automático
-Practicas Aprendizaje Automático en Python utilizando las librerías Tensorflow, Keras y Scikit-learn
+Practicas Aprendizaje Automático, Sistemas Cognitivos y Python Data Science Handbook. Utilizando las librerías Tensorflow, Keras y Scikit-learn
 
 ![Captura](https://user-images.githubusercontent.com/9929241/118838976-69067b80-b8c6-11eb-9bd6-ae05232f64ff.PNG)
 
@@ -21,3 +21,4 @@ Practicas Aprendizaje Automático en Python utilizando las librerías Tensorflow
 *  Regresión con Redes neuronales: Problema de regresión para calcular la eficacia de los coches en galones por milla con redes neuronales.
 
 *  Clasificación de imágenes con redes neuronales: Ejemplo de clasificación de imágenes con redes neuronales. En este caso se clasifican imágenes de prendas de ropa del data set Fashion MNIST.
+* Data Science Handbook: Ejemplos que agrupan trucos de las principales librerias que se usan en para Data Science. 
