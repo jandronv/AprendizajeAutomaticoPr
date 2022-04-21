@@ -19,4 +19,4 @@ Prácticas de Aprendizaje Automático, Sistemas Cognitivos y Python Data Science
 *  Regresión con Redes neuronales: Problema de regresión para calcular la eficacia de los coches en galones por milla con redes neuronales.
 
 *  Clasificación de imágenes con redes neuronales: Ejemplo de clasificación de imágenes con redes neuronales. En este caso se clasifican imágenes de prendas de ropa del data set Fashion MNIST.
-* Data Science Handbook: Ejemplos que agrupan trucos de las principales librerias que se usan en para Data Science. 
+* Data Science Handbook: Ejemplos que agrupan ejemplos de las principales librerias que se usan en para Data Science. 
